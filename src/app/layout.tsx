@@ -6,10 +6,10 @@ import { CustomCursor } from "@/components/layout/CustomCursor";
 import { PageTransition } from "@/components/layout/PageTransition";
 
 export const metadata: Metadata = {
-  title: "Nexovanta Labs — Premium Android App Development",
+  title: "Nexovanta Labs | AI, Web & Mobile App Development Company",
   description:
     "Nexovanta Labs crafts premium Android applications with cutting-edge architecture, pixel-perfect UI, and performance that scales. India's top Android development studio.",
-  keywords: ["Android App Development", "Kotlin", "Jetpack Compose", "Mobile Apps", "Nexovanta Labs"],
+  keywords: ["Android App Development", "Kotlin", "Jetpack Compose", "Mobile Apps", "Web Development Company", "Software Development for Startups", "Nexovanta Labs"],
   openGraph: {
     title: "Nexovanta Labs — Premium Android App Development",
     description: "We build apps that define experiences and drive business growth.",
